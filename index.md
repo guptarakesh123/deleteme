@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/guptarakesh123/deleteme/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<a href="https://www.google.com" />
+<a href="https://www.google.com"> this link takes you to google </a>
 
 ### Markdown
 
